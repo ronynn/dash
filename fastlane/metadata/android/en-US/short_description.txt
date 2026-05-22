@@ -1,1 +1,1 @@
-An open source, privacy focussed, aesthetic todo list app.
+An open source Dashboard to quickly take a look at the weather alongwith global and local news.
